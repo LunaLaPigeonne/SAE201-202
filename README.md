@@ -4,7 +4,7 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 
 ### Chechlist S2.01
 
-❎ Diagramme de classe <br>
+✅ Diagramme de classe <br>
 ✅ Création du projet sur GitHub <br>
 ❎ Maquettage des interactions <br>
 ❎ Rapport de test JUnit <br>
