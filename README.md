@@ -1,6 +1,6 @@
 Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 
-<p align="center"><img src="https://i.imgur.com/8l52IaK.png"></p>
+<p align="center"><img src="https://i.imgur.com/8l52IaK.png" alt="SAE201"></p>
 
 ### Description de notre rendu
 
@@ -19,7 +19,7 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 ❎ Rapport des commits <br>
 
 <hr>
-<p align="center"><img src="https://i.imgur.com/AZlvJud.png">"</p>
+<p align="center"><img src="https://i.imgur.com/AZlvJud.png" alt="SAE202"></p>
 
 ### Description de notre rendu
 
