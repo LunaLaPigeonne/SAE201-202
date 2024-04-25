@@ -1,13 +1,13 @@
-# SAE 2.01 & 2.02
-
 Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 
-## Description de notre rendu
+<p align="center"><img src="https://i.imgur.com/8l52IaK.png"></p>
 
-- Dans ce repository, vous trouverez les code sources de nos deux projets.
+### Description de notre rendu
+
+- Dans ce repository, vous trouverez les code sources du projet S2.01.
 - De plus, vous trouverez aussi les fichiers `.jar`.
 - Un rapport de test JUnit sera disponible dans le fichier `RapportJUnit.md`.
-- Le rapport explicatif de la SAE 2.02 sera disponible dans le fichier `RapportExplicatif.md`.
+- Le rapport explicatif de la SAE 2.02 sera disponible dans le fichier `RapportExplicatifR201.md`.
 
 ### Chechlist S2.01
 
@@ -19,6 +19,13 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 ❎ Rapport des commits <br>
 
 <hr>
+<p align="center"><img src="https://i.imgur.com/AZlvJud.png">"</p>
+
+### Description de notre rendu
+
+- Dans ce repository, vous trouverez les code sources du projet S2.02.
+- Vous trouverez aussi les fichiers `.jar` correspodant à notre robot.
+- Un rapport explicatif sera disponible dans le fichier `RapportExplicatifR202.md`.
 
 ### Checklist S2.02
 
