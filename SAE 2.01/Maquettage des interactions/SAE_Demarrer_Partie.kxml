@@ -3,7 +3,7 @@
 <kmad-model version="1.3">
     <project classkmad="project.Project" idkmad="K1"/>
     <task classkmad="tache.Task" id-task-point="K3" id-task-subtasks-list="K7 K10 " idkmad="K4">
-        <task-name>Ddémarrer Partie</task-name>
+        <task-name>Démarrer Partie</task-name>
         <task-numero>Racine   </task-numero>
         <task-observation/>
         <task-executant>ABS</task-executant>
