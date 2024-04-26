@@ -15,7 +15,9 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 ✅ Création du projet sur GitHub <br>
 ❎ Maquettage des interactions <br>
 ❎ Rapport de test JUnit <br>
-❎ Code Java + Fichier .jar <br>
+✅ Code Java <br>
+❎ Code JavaFx <br>
+❎ Fichier .jar <br>
 ❎ Rapport des commits <br>
 
 <hr>
