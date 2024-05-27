@@ -1,4 +1,4 @@
-Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
+<p align="center">Groupe : <b>GILLOT</b>, <b>DE-CLERCK</b>, <b>HOULET</b>.</p>
 
 <p align="center"><img src="https://i.imgur.com/8l52IaK.png" alt="SAE201"></p>
 
@@ -11,14 +11,12 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 
 ### Chechlist S2.01
 
-✅ Diagramme de classe <br>
-✅ Création du projet sur GitHub <br>
-✅ Maquettage des interactions <br>
-❎ Rapport de test JUnit <br>
-✅ Code Java <br>
-❎ Code JavaFx <br>
+✅ Maquettage des intéractions <br>
+✅ Maquettage JavaFX <br>
+✅ Rapport de test JUnit <br>
+❎ Code Source <br>
 ❎ Fichier .jar <br>
-❎ Rapport des commits <br>
+✅ Rapport des commits <br>
 
 <hr>
 <p align="center"><img src="https://i.imgur.com/AZlvJud.png" alt="SAE202"></p>
