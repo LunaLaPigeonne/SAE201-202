@@ -13,7 +13,7 @@ Groupe : **GILLOT**, **DE-CLERCK**, **HOULET**.
 
 ✅ Diagramme de classe <br>
 ✅ Création du projet sur GitHub <br>
-❎ Maquettage des interactions <br>
+✅ Maquettage des interactions <br>
 ❎ Rapport de test JUnit <br>
 ✅ Code Java <br>
 ❎ Code JavaFx <br>
