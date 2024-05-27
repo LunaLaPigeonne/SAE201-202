@@ -2,6 +2,10 @@
 
 <p align="center"><img src="https://i.imgur.com/8l52IaK.png" alt="SAE201"></p>
 
+### Progression du projet
+
+![](https://geps.dev/progress/90)
+
 ### Description de notre rendu
 
 - Dans ce repository, vous trouverez les code sources du projet S2.01.
@@ -20,6 +24,10 @@
 
 <hr>
 <p align="center"><img src="https://i.imgur.com/AZlvJud.png" alt="SAE202"></p>
+
+### Progression du projet
+
+![](https://geps.dev/progress/25)
 
 ### Description de notre rendu
 
