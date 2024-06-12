@@ -4,7 +4,7 @@
 
 ### Progression du projet
 
-![](https://geps.dev/progress/90)
+![](https://geps.dev/progress/95)
 
 ### Description de notre rendu
 
