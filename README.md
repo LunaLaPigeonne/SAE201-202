@@ -11,14 +11,14 @@
 - Dans ce repository, vous trouverez les code sources du projet S2.01.
 - De plus, vous trouverez aussi les fichiers `.jar`.
 - Un rapport de test JUnit sera disponible dans le fichier `RapportJUnit.md`.
-- Le rapport explicatif de la SAE 2.02 sera disponible dans le fichier `RapportExplicatifR201.md`.
+- Le rapport explicatif de la SAE 2.01 sera disponible dans le fichier `RapportExplicatifR201.md`.
 
 ### Chechlist S2.01
 
 ✅ Maquettage des intéractions <br>
 ✅ Maquettage JavaFX <br>
 ✅ Rapport de test JUnit <br>
-❎ Code Source <br>
+✅ Code Source <br>
 ❎ Fichier .jar <br>
 ✅ Rapport des commits <br>
 
