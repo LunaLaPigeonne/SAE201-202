@@ -4,7 +4,7 @@
 
 ### Progression du projet
 
-![](https://geps.dev/progress/95)
+![](https://geps.dev/progress/100)
 
 ### Description de notre rendu
 
@@ -19,7 +19,7 @@
 ✅ Maquettage JavaFX <br>
 ✅ Rapport de test JUnit <br>
 ✅ Code Source <br>
-❎ Fichier .jar <br>
+✅ Fichier .jar <br>
 ✅ Rapport des commits <br>
 
 <hr>
@@ -27,7 +27,7 @@
 
 ### Progression du projet
 
-![](https://geps.dev/progress/25)
+![](https://geps.dev/progress/95)
 
 ### Description de notre rendu
 
@@ -37,5 +37,5 @@
 
 ### Checklist S2.02
 
-❎ Rapport explicatif <br>
-❎ Code Java + Fichier .jar
+✅ Rapport explicatif <br>
+✅ Code Java + Fichier .jar
